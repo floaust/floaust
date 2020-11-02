@@ -11,8 +11,8 @@
 
 ### Currently working on:
 
-<a href="https://github.com/pterm/pterm"><img align="left" alt="PTerm" width="26px" src="https://avatars3.githubusercontent.com/u/71455014?s=200&v=4" /></a>
-<a href="https://github.com/dops-cli/dops"><img align="left" alt="dops" width="26px" src="https://avatars2.githubusercontent.com/u/69481900?s=200&v=4" /></a>
+<a href="https://github.com/pterm/pterm"><img align="left" alt="PTerm" width="30px" src="https://avatars3.githubusercontent.com/u/71455014?s=200&v=4" /></a>
+<a href="https://github.com/dops-cli/dops"><img align="left" alt="dops" width="30px" src="https://avatars2.githubusercontent.com/u/69481900?s=200&v=4" /></a>
 
 <br />
 
