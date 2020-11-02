@@ -4,6 +4,7 @@
 ## I'm a 20 y/o student in Computer Science @HHN
 
 - currently learning Go
+- learning Java
 - working on open source projects
 
 ### Languages and Tools:
