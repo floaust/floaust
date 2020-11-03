@@ -16,8 +16,8 @@
 ## Currently working on:
 
 <p align="center">
-<a href="https://github.com/pterm/pterm"><img alt="PTerm" width="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=pterm&repo=pterm&theme=tokyonight" /></a>
-<a href="https://github.com/dops-cli/dops"><img alt="dops" width="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=dops-cli&repo=dops&theme=tokyonight" /></a>
+<a href="https://github.com/pterm/pterm"><img alt="PTerm" width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=pterm&repo=pterm&theme=tokyonight" /></a>
+<a href="https://github.com/dops-cli/dops"><img alt="dops" width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dops-cli&repo=dops&theme=tokyonight" /></a>
 </p>
 
 <h2 align="center">🛠 Tools                                                                                                                                  Languages</h2>
