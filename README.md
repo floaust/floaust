@@ -5,7 +5,8 @@
 
 # Hi  <img src="images/Hi.gif" width="30px">  I'm a student in Computer Science @HHN
 
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=synthwave' width='400"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='400"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='400"'>
 
 - currently learning Go
 - learning Java
