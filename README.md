@@ -6,13 +6,14 @@
 # Hi  <img src="images/Hi.gif" width="30px">  I'm a student in Computer Science @HHN
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='400"'>
-<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='400"'>
 
 - currently learning Go
 - learning Java
 - working on open source projects
 - highly insterested in SmartHome solutions
 - passion for building SmartHome devices
+
+<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='300"'>
 
 ## Currently working on:
 
