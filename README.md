@@ -40,12 +40,12 @@
 
 ## Social Media:
 
+<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='350"'>
+
 [<img align="left" alt="florianbenediktaustcom" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="floaust | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="floaust | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="floaust | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='350"'>
 
 [website]: https://florianbenediktaust.com
 [twitter]: https://twitter.com/FLorianBAust
