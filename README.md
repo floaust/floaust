@@ -15,8 +15,6 @@
 
 ## Currently working on:
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='300"'>
-
 <a href="https://github.com/pterm/pterm"><img align="left" alt="PTerm" width="50px" src="https://avatars3.githubusercontent.com/u/71455014?s=200&v=4" /></a>
 <a href="https://github.com/dops-cli/dops"><img align="left" alt="dops" width="50px" src="https://avatars2.githubusercontent.com/u/69481900?s=200&v=4" /></a>
 
@@ -47,7 +45,7 @@
 [<img align="left" alt="floaust | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="floaust | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='300"'>
 
 [website]: https://florianbenediktaust.com
 [twitter]: https://twitter.com/FLorianBAust
