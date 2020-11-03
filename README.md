@@ -13,9 +13,9 @@
 - highly insterested in SmartHome solutions
 - passion for building SmartHome devices
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='300"'>
-
 ## Currently working on:
+
+<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='300"'>
 
 <a href="https://github.com/pterm/pterm"><img align="left" alt="PTerm" width="50px" src="https://avatars3.githubusercontent.com/u/71455014?s=200&v=4" /></a>
 <a href="https://github.com/dops-cli/dops"><img align="left" alt="dops" width="50px" src="https://avatars2.githubusercontent.com/u/69481900?s=200&v=4" /></a>
