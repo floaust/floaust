@@ -5,7 +5,7 @@
 
 # Hi  <img src="images/Hi.gif" width="30px">  I'm a student in Computer Science @HHN
 
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='350"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='400"'>
 
 - currently learning Go
 - learning Java
@@ -16,8 +16,8 @@
 ## Currently working on:
 
 <p align="center">
-<a href="https://github.com/pterm/pterm"><img alt="PTerm" width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=pterm&repo=pterm&theme=tokyonight" /></a>
-<a href="https://github.com/dops-cli/dops"><img alt="dops" width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dops-cli&repo=dops&theme=tokyonight" /></a>
+<a href="https://github.com/pterm/pterm"><img alt="PTerm" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=pterm&repo=pterm&theme=tokyonight" /></a>
+<a href="https://github.com/dops-cli/dops"><img alt="dops" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=dops-cli&repo=dops&theme=tokyonight" /></a>
 </p>
 
 <h2 align="center">🛠 Tools                                                                                                                                  Languages</h2>
