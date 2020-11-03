@@ -1,10 +1,11 @@
 [![Website](https://img.shields.io/website?label=florianbenediktaust.com&style=for-the-badge&url=https%3A%2F%2Fflorianbenediktaust.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/FlorianBAust?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFlorianBAust&screen_name=FlorianBAust)
 
+<img align='mid' src='images/octocat.gif' width='100"'>
+
 # Hi  <img src="images/Hi.gif" width="30px">  I'm a 20 y/o student in Computer Science @HHN
 
-<img align='mid' src='images/octocat.gif' width='100"'>
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=synthwave' width='100"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=synthwave' width='1000"'>
 
 - currently learning Go
 - learning Java
