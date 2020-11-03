@@ -5,7 +5,7 @@
 
 # Hi  <img src="images/Hi.gif" width="30px">  I'm a student in Computer Science @HHN
 
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='400"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='350"'>
 
 - currently learning Go
 - learning Java
@@ -45,7 +45,7 @@
 [<img align="left" alt="floaust | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="floaust | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='300"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=floaust&theme=tokyonight' width='350"'>
 
 [website]: https://florianbenediktaust.com
 [twitter]: https://twitter.com/FLorianBAust
