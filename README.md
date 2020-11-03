@@ -1,7 +1,7 @@
 [![Website](https://img.shields.io/website?label=florianbenediktaust.com&style=for-the-badge&url=https%3A%2F%2Fflorianbenediktaust.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/FlorianBAust?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFlorianBAust&screen_name=FlorianBAust)
 
-## Hi<img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm a 20 y/o student in Computer Science @HHN
+## Hi  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">  I'm a 20 y/o student in Computer Science @HHN
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
