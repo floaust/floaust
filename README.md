@@ -16,7 +16,11 @@
 ## Currently working on:
 
 <a href="https://github.com/pterm/pterm"><img align="left" alt="PTerm" width="50px" src="https://avatars3.githubusercontent.com/u/71455014?s=200&v=4" /></a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pterm&repo=pterm)](https://github.com/pterm/pterm)
+<br />
+<br />
 <a href="https://github.com/dops-cli/dops"><img align="left" alt="dops" width="50px" src="https://avatars2.githubusercontent.com/u/69481900?s=200&v=4" /></a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dops-cli&repo=dops)](github.com/dops-cli/dops)
 
 <br />
 <br />
