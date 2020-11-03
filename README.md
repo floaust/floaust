@@ -3,7 +3,8 @@
 
 # Hi  <img src="images/Hi.gif" width="30px">  I'm a 20 y/o student in Computer Science @HHN
 
-<img align='right' src='images/octocat.gif' width='200"'>
+<img align='mid' src='images/octocat.gif' width='100"'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=synthwave' width='100"'>
 
 - currently learning Go
 - learning Java
