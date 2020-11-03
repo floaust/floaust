@@ -14,13 +14,14 @@
 - passion for building SmartHome devices
 
 ## Currently working on:
+
 <p align="center">
-<a href="https://github.com/pterm/pterm"><img align="left" alt="PTerm" width="50px" src="https://avatars3.githubusercontent.com/u/71455014?s=200&v=4" /></a>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pterm&repo=pterm&theme=tokyonight)](https://github.com/pterm/pterm)
+<a href="https://github.com/pterm/pterm"><img alt="PTerm" width="50px" src="https://avatars3.githubusercontent.com/u/71455014?s=200&v=4" /></a>
+<a href="https://github.com/pterm/pterm"><img alt="PTerm" width="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=pterm&repo=pterm&theme=tokyonight" /></a>
 <br />
 <br />
-<a href="https://github.com/dops-cli/dops"><img align="left" alt="dops" width="50px" src="https://avatars2.githubusercontent.com/u/69481900?s=200&v=4" /></a>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dops-cli&repo=dops&theme=tokyonight)](github.com/dops-cli/dops)
+<a href="https://github.com/dops-cli/dops"><img alt="dops" width="50px" src="https://avatars2.githubusercontent.com/u/69481900?s=200&v=4" /></a>
+<a href="https://github.com/dops-cli/dops"><img alt="dops" width="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=dops-cli&repo=dops&theme=tokyonight" /></a>
 </p>
 
 <h2 align="center">🛠 Tools                                                                                                                                  Languages</h2>
