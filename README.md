@@ -7,7 +7,6 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='400"'>
 
-- looking at Python and TensorFlow
 - learning Go
 - learning Java
 - working on open source projects
