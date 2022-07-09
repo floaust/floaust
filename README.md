@@ -29,10 +29,10 @@
 <img align="left" alt="GitHub" width="30px" src="images/github.png" />
 <img align="left" alt="GitLab" width="30px" src="images/gitlab.png" />
 
-<img align="right" alt="Kotlin" width="30px" src="images/kotlin.png" />
 <img align="right" alt="C" width="30px" src="images/c.png" />
 <img align="right" alt="C++" width="30px" src="images/cpp_logo.png" />
 <img align="right" alt="Java" width="30px" src="images/java.png" />
+<img align="right" alt="Kotlin" width="30px" src="images/kotlin.png" />
 <img align="right" alt="Golang" width="30px" src="images/go.png" />
 
 <br />
