@@ -7,6 +7,7 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='400"'>
 
+- working for @pace in the backend/golang team 
 - learning Go
 - learning Java
 - working on open source projects
