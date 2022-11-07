@@ -31,6 +31,9 @@
 
 <img align="right" alt="C" width="30px" src="images/c.png" />
 <img align="right" alt="C++" width="30px" src="images/cpp_logo.png" />
+<img align="right" alt="C#" width="30px" src="images/c-sharp-logo.png" />
+<img align="right" alt="Dart" width="30px" src="images/Dart-logo.png" />
+<img align="right" alt="Flutter" width="30px" src="images/flutter-logo.png" />
 <img align="right" alt="Java" width="30px" src="images/java.png" />
 <img align="right" alt="Kotlin" width="30px" src="images/kotlin.png" />
 <img align="right" alt="Golang" width="30px" src="images/go.png" />
