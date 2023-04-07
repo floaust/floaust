@@ -1,11 +1,7 @@
-<img align='right' src='images/octocat.gif' width='100"'>
-
 [![Website](https://img.shields.io/website?label=florianbenediktaust.com&style=for-the-badge&url=https%3A%2F%2Fflorianbenediktaust.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/FlorianBAust?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFlorianBAust&screen_name=FlorianBAust)
 
 # Hi, I'm a student in Computer Science @HHN
-
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=floaust&show_icons=true&theme=tokyonight' width='400"'>
 
 - working for [@pace](https://github.com/pace?type=source) in the backend/golang team 
 - learning Go
@@ -33,6 +29,7 @@
 <img align="right" alt="C" width="30px" src="images/c.png" />
 <img align="right" alt="C++" width="30px" src="images/cpp_logo.png" />
 <img align="right" alt="C#" width="30px" src="images/c-sharp-logo.png" />
+<img align="right" alt="Pyhton" width="30px" src="images/python.webp" />
 <img align="right" alt="Dart" width="30px" src="images/Dart-logo.png" />
 <img align="right" alt="Flutter" width="30px" src="images/flutter-logo.png" />
 <img align="right" alt="Java" width="30px" src="images/java.png" />
