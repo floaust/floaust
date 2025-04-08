@@ -3,9 +3,9 @@
 
 # Hi, I'm a student in Computer Science @HHN
 
-- working for [@pace](https://github.com/pace?type=source) in the backend/golang team 
+- working for [@pace](https://github.com/pace?type=source) in the golang backend team 
 - learning Go
-- learning Java
+- learning C#
 - working on open source projects
 - highly insterested in SmartHome solutions
 - passion for building SmartHome devices
