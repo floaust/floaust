@@ -3,7 +3,7 @@
 
 # Hi, I'm a Software Backend Engineer
 
-- working for [@pace](https://github.com/pace?type=source) in the golang backend team 
+- working for @Kinexon in the RTLS team 
 - learning Go
 - learning C#
 - learning C++
